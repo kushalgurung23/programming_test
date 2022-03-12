@@ -1,16 +1,9 @@
-# programming_test
+# Set up instructions
 
-A new Flutter project.
+## Solutions of question no 1 is present in the lib/graph_solutions folder.
 
-## Getting Started
+## For question no 2, just run main.dart file in the lib folder.
 
-This project is a starting point for a Flutter application.
+#### Flutter version used: 2.10.2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Dart version used: 2.16.1
