@@ -4,6 +4,8 @@
 
 ### For question no 2, just run main.dart file in the lib folder.
 
+### Provider package is used for state management.
+
 #### Flutter version used: 2.10.2
 
 #### Dart version used: 2.16.1
